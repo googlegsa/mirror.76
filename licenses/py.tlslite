@@ -1,0 +1,7 @@
+2 Licenses/Acknowledgements
+============================
+All code here is public domain.
+
+Thanks to Bram Cohen for his public domain Rijndael implementation.
+
+Thanks to Edward Loper for Epydoc, which generated the API docs.
